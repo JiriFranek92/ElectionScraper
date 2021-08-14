@@ -24,7 +24,7 @@ Výsledky hlasování pro okres Brno-venkov:
   1. argument `https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6203`
   2. argument `brno_venkov.csv`
   
-Spuštění programu:
+Spuštění programu:  
 `python election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=11&xnumnuts=6203" brno_venkov.csv`
   
 Průběh stahování:
